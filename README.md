@@ -1,5 +1,5 @@
 # Hyper-config
-Download Hyper
+Download Hyper.                                                                                   
 Select edit -> Preferences
 A notepad will open.
 Delete the exsisting content.
